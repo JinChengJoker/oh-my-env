@@ -1,0 +1,1 @@
+FROM jinchengjoker/oh-my-docker:latest
