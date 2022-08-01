@@ -2,6 +2,13 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
+  "runArgs": [
+    "--name=oh-my-env"
+  ],
+  "mounts": [
+    "source=repos,target=/root/repos,type=volume",
+    "source=ssh,target=/root/.ssh,type=volume"
+  ],
   "customizations": {
     "vscode": {
       "extensions": []
