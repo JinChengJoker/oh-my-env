@@ -1,1 +1,1 @@
-FROM jinchengjoker/oh-my-docker:latest
+FROM jinchengjoker/oh-my-docker:0.1
