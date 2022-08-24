@@ -1,0 +1,5 @@
+*
+!.gitignore
+!.devcontainer.json
+!Dockerfile
+!README.md
