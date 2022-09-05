@@ -12,7 +12,10 @@
   ],
   "customizations": {
     "vscode": {
-      "extensions": []
+      "extensions": [
+        "vue.volar",
+        "vue.vscode-typescript-vue-plugin"
+      ]
     }
   }
   // "forwardPorts": []
