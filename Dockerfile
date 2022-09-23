@@ -1,4 +1,4 @@
-FROM jinchengjoker/oh-my-docker:1.3
+FROM jinchengjoker/oh-my-docker:1.4
 
 # 配置 git
 ENV NAME "jincheng"
