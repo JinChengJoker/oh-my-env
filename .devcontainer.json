@@ -15,7 +15,8 @@
       "extensions": [
         "vue.volar",
         "vue.vscode-typescript-vue-plugin",
-        "eamodio.gitlens"
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode"
       ]
     }
   }
